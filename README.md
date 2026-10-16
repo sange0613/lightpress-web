@@ -1,6 +1,6 @@
 # 轻压网页版
 
-[打开轻压](https://sange1022.github.io/lightpress-web/)
+[打开轻压](https://sange0613.github.io/lightpress-web/)
 
 苹果风格的浏览器本地批量图片压缩工具。支持质量调节、等比例缩放、实际大小与节省统计、ZIP 下载，以及支持浏览器中的直接文件夹导出。
 
